@@ -5,10 +5,7 @@
 - 📫 To reach me throught: musfiqurrahman1205@gmail.com 
 - 🥅 2022 Goals: Learn more about Flutter.
 - ⚡ Fun fact: I love to reading books and play cricket.
-
-
 <br>
-
 ### Skills
 
 <hr>
@@ -43,7 +40,9 @@
 <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/></span>
 <span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></span>
 <span><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="Virtual Box"/></span>
+<hr
 <hr>
+<br>
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/Musfiqu29358969?fbclid=IwAR0XA9OsB8Zoeme_xqmnIvcBcg5mc2XXc-jTvDHUuVWsdqERUiIN3vogdpg)
