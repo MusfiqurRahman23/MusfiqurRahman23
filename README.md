@@ -56,7 +56,7 @@
 
 ➡️ [more videos...](https://www.youtube.com/watch?v=VmzCBeKHSJ4)
 
----
+------
 
 ### 📕 Latest Blog Posts
 
@@ -66,8 +66,8 @@
 
 ➡️ [more blog posts...](https://www.youtube.com/watch?v=VmzCBeKHSJ4)
 
----
 
+------
 
 <details>
   <summary>:zap: GitHub Stats</summary>
