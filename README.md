@@ -8,11 +8,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCbc4GNXAMOQb2ER6c3y0vow/)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCbc4GNXAMOQb2ER6c3y0vow/)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Musfiqu29358969?fbclid=IwAR0XA9OsB8Zoeme_xqmnIvcBcg5mc2XXc-jTvDHUuVWsdqERUiIN3vogdpg)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Musfiqu29358969?fbclid=IwAR0XA9OsB8Zoeme_xqmnIvcBcg5mc2XXc-jTvDHUuVWsdqERUiIN3vogdpg)
