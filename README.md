@@ -6,6 +6,8 @@
 - 🥅 2022 Goals: Learn more about Flutter.
 - ⚡ Fun fact: I love to reading books and play cricket.
 <br>
+<br>
+
 ### Skills
 
 <hr>
