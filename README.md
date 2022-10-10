@@ -8,13 +8,14 @@
 
 ### Connect with me:
 
-
-
-[![Twitter](/img/twitter-light.svg)](https://twitter.com/Musfiqu29358969?fbclid=IwAR0XA9OsB8Zoeme_xqmnIvcBcg5mc2XXc-jTvDHUuVWsdqERUiIN3vogdpg)
+[![website](./img/twitter-light.svg)](https://twitter.com/Musfiqu29358969?fbclid=IwAR0XA9OsB8Zoeme_xqmnIvcBcg5mc2XXc-jTvDHUuVWsdqERUiIN3vogdpg)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Musfiqu29358969?fbclid=IwAR0XA9OsB8Zoeme_xqmnIvcBcg5mc2XXc-jTvDHUuVWsdqERUiIN3vogdpg)
 &nbsp;&nbsp;
-[![Linkedin](/img/linkedin-light.svg)](https://www.linkedin.com/in/musfiqur-rahman-a20a841b0/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/musfiqur-rahman-a20a841b0/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/musfiqur-rahman-a20a841b0/)
 &nbsp;&nbsp;
-[![Instagram](img/instagram-light.svg)](https://www.instagram.com/m_u_s_h_i_75/?fbclid=IwAR1bxpXqlCFscw1iNc35Haz4FP-ANpfsXXi2OxA97_Tn6yfG74SwZGBUltY)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/m_u_s_h_i_75/?fbclid=IwAR1bxpXqlCFscw1iNc35Haz4FP-ANpfsXXi2OxA97_Tn6yfG74SwZGBUltY)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/m_u_s_h_i_75/?fbclid=IwAR1bxpXqlCFscw1iNc35Haz4FP-ANpfsXXi2OxA97_Tn6yfG74SwZGBUltY)IwAR1bxpXqlCFscw1iNc35Haz4FP-ANpfsXXi2OxA97_Tn6yfG74SwZGBUltY)
 
 
 ### Languages and Tools:
