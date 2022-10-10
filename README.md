@@ -6,17 +6,7 @@
 - 🥅 2022 Goals: Learn more about Flutter.
 - ⚡ Fun fact: I love to reading books and play cricket.
 
-### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Musfiqu29358969?fbclid=IwAR0XA9OsB8Zoeme_xqmnIvcBcg5mc2XXc-jTvDHUuVWsdqERUiIN3vogdpg)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Musfiqu29358969?fbclid=IwAR0XA9OsB8Zoeme_xqmnIvcBcg5mc2XXc-jTvDHUuVWsdqERUiIN3vogdpg)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/musfiqur-rahman-a20a841b0/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/musfiqur-rahman-a20a841b0/)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/m_u_s_h_i_75/?fbclid=IwAR1bxpXqlCFscw1iNc35Haz4FP-ANpfsXXi2OxA97_Tn6yfG74SwZGBUltY)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/m_u_s_h_i_75/?fbclid=IwAR1bxpXqlCFscw1iNc35Haz4FP-ANpfsXXi2OxA97_Tn6yfG74SwZGBUltY=IwAR1bxpXqlCFscw1iNc35Haz4FP-ANpfsXXi2OxA97_Tn6yfG74SwZGBUltY)
-<br>
 <br>
 
 ### Skills
@@ -54,3 +44,14 @@
 <span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></span>
 <span><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="Virtual Box"/></span>
 <hr>
+### Connect with me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/Musfiqu29358969?fbclid=IwAR0XA9OsB8Zoeme_xqmnIvcBcg5mc2XXc-jTvDHUuVWsdqERUiIN3vogdpg)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Musfiqu29358969?fbclid=IwAR0XA9OsB8Zoeme_xqmnIvcBcg5mc2XXc-jTvDHUuVWsdqERUiIN3vogdpg)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/musfiqur-rahman-a20a841b0/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/musfiqur-rahman-a20a841b0/)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/m_u_s_h_i_75/?fbclid=IwAR1bxpXqlCFscw1iNc35Haz4FP-ANpfsXXi2OxA97_Tn6yfG74SwZGBUltY)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/m_u_s_h_i_75/?fbclid=IwAR1bxpXqlCFscw1iNc35Haz4FP-ANpfsXXi2OxA97_Tn6yfG74SwZGBUltY=IwAR1bxpXqlCFscw1iNc35Haz4FP-ANpfsXXi2OxA97_Tn6yfG74SwZGBUltY)
+<br>
