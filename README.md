@@ -16,15 +16,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/m_u_s_h_i_75/?fbclid=IwAR1bxpXqlCFscw1iNc35Haz4FP-ANpfsXXi2OxA97_Tn6yfG74SwZGBUltY)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/m_u_s_h_i_75/?fbclid=IwAR1bxpXqlCFscw1iNc35Haz4FP-ANpfsXXi2OxA97_Tn6yfG74SwZGBUltY=IwAR1bxpXqlCFscw1iNc35Haz4FP-ANpfsXXi2OxA97_Tn6yfG74SwZGBUltY)
-
-
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
 <br>
 <br>
 
@@ -50,7 +41,7 @@
 <span><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></span>
 <span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/></span>
-
+<span><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></span>
 
 <h4><img height="26px" src="https://img.shields.io/badge/Platform-487088"/></h4>
 
@@ -58,6 +49,7 @@
 
 <hr>
 <h4><img height="26px" src="https://img.shields.io/badge/Tool-6c598f"/></h4>
+<span><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/></span>
 <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/></span>
 <span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></span>
 <span><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="Virtual Box"/></span>
