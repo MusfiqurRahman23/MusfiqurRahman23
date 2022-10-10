@@ -10,11 +10,11 @@
 
 
 
-[![Twitter](./img/twitter-light.svg)](https://twitter.com/Musfiqu29358969?fbclid=IwAR0XA9OsB8Zoeme_xqmnIvcBcg5mc2XXc-jTvDHUuVWsdqERUiIN3vogdpg)
+[![Twitter](/img/twitter-light.svg)](https://twitter.com/Musfiqu29358969?fbclid=IwAR0XA9OsB8Zoeme_xqmnIvcBcg5mc2XXc-jTvDHUuVWsdqERUiIN3vogdpg)
 &nbsp;&nbsp;
-[![Linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/musfiqur-rahman-a20a841b0/)
+[![Linkedin](/img/linkedin-light.svg)](https://www.linkedin.com/in/musfiqur-rahman-a20a841b0/)
 &nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/m_u_s_h_i_75/?fbclid=IwAR1bxpXqlCFscw1iNc35Haz4FP-ANpfsXXi2OxA97_Tn6yfG74SwZGBUltY)
+[![Instagram](img/instagram-light.svg)](https://www.instagram.com/m_u_s_h_i_75/?fbclid=IwAR1bxpXqlCFscw1iNc35Haz4FP-ANpfsXXi2OxA97_Tn6yfG74SwZGBUltY)
 
 
 ### Languages and Tools:
