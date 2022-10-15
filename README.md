@@ -55,7 +55,7 @@
      </tr>
       <tr>
        <td><img alt="Musfiqur Rahman :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MusfiqurRahman23&show_icons=true&theme=dark"> </td>
-       <td><img alt="Musfiqur Rahman :: Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=MusfiqurRahman23 "> </td>
+       <td><img alt="Musfiqur Rahman :: Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=MusfiqurRahman23& "> </td>
      </tr>
      <tr>
         <td><img alt="Musfiqur Rahman :: Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusfiqurRahman23&layout=compact"> </td>
