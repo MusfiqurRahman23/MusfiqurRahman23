@@ -47,6 +47,21 @@
 <br>
 <br>
 
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Streaks</th>
+     </tr>
+      <tr>
+       <td><img alt="Musfiqur Rahman :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Musfiqur Rahman show_icons=true&theme=dark"> </td>
+       <td><img alt="Musfiqur Rahman  :: Streaks" src="https://github-readme-streak-stats.herokuapp.com/?userMusfiqur Rahman "> </td>
+     </tr>
+     <tr>
+        <td><img alt="RaDiO-AcTiVe8970 :: Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musfiqur Rahman layout=compact"> </td>
+      </tr>
+   </table>
+</p>
 ### Connect with me:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/Musfiqu29358969?fbclid=IwAR0XA9OsB8Zoeme_xqmnIvcBcg5mc2XXc-jTvDHUuVWsdqERUiIN3vogdpg)
