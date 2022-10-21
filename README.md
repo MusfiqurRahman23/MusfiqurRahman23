@@ -1,7 +1,13 @@
 <div id="header" align="center">
   <img src="https://giphy.com/gifs/web-development-L8K62iTDkzGX6/fullscreen" width="100"/>
 </div>
-<hr><br>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<hr>
+<br>
+
 - 👋 Hi, I’m @MusfiqurRahman23
 - 👀 I’m interested in Web Developing.
 - 🌱 I’m currently learning about Opertaing System, Flutter.
