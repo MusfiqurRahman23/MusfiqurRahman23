@@ -3,7 +3,7 @@
 </div>
 <br>
 <h1>
-  Hey there I am Musfqiur Rahman.
+  Hey there! I'm Musfqiur Rahman.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <hr>
