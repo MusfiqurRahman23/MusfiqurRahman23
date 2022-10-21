@@ -7,9 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <hr>
-<br>
 
-- 👋 Hi, I’m @MusfiqurRahman23
 - 👀 I’m interested in Web Developing.
 - 🌱 I’m currently learning about Opertaing System, Flutter.
 - 💞️ I’m looking to collaborate on a converting Application.
