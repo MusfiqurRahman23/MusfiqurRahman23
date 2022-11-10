@@ -23,7 +23,7 @@
 <h4><img height="26px" src="https://img.shields.io/badge/Framework-695b55"/></h4>
 
 <span><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/></span>
-<span><img src="https://img.shields.io/badge/.Spring-Framework-005D87?style=for-the-badge&logo=dotnet&logoColor=white" alt="Spring Framework"/></span>
+<span><img src="https://img.shields.io/badge/Spring-Framework-005A87?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring-Framework"/></span>
 
 <h4><img height="26px" src="https://img.shields.io/badge/Database-979a9b"/></h4>
 <span><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle"/></span>
