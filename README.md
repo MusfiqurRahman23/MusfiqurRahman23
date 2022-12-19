@@ -9,7 +9,7 @@
 <hr>
 
 - 👀 I’m interested in Web Developing.
-- 🌱 I’m currently learning about Opertaing System, Flutter.
+- 🌱 I’m currently learning about Operating System, Flutter.
 - 💞️ I’m looking to collaborate on a converting Application.
 - 📫 To reach me throught: musfiqurrahman1205@gmail.com 
 - 🥅 2022 Goals: Learn more about Flutter.
