@@ -8,8 +8,8 @@
 </h1>
 <hr>
 
-- 👀 I’m interested in Web Developing.
-- 🌱 I’m currently working a food delivery system.
+- 👀 I’m interested in Software Quality Assurance.
+- 🌱 I’m currently working API Testing.
 - 💞️ I’m looking to collaborate on a Jobs portal website.
 - 📫 To reach me throught: musfiqurrahman1205@gmail.com 
 - 🥅 2023 Goals: Learn more about QA.
