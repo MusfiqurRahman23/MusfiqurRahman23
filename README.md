@@ -62,6 +62,7 @@
 <span><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="Virtual Box"/></span>
 <span><img src="https://img.shields.io/badge/Postman-21416b?style=for-the-badge&logo=Postman&logoColor=green" alt="Postman"/></span>
 <span><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"alt="Selenium"/></span>
+<span><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Jira&logoColor=yellow"alt="Jira"/></span>
 
 <hr>
 
