@@ -2,17 +2,19 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <br>
-<h1>
-  Hey there! I'm Musfqiur Rahman.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /img>
+<h1 align="center" style="font-size: 3em; color: #0a66c2; font-weight: bold;">👋 Hi, I'm Musfiqur Rahman</h1>
+<h3 align="center" style="color: #555;">Software Quality Assurance (SQA) Engineer | Manual Testing Specialist</h3>
+
 <hr>
 
-- 👀 I’m interested in Software Quality Assurance.
-- 🌱 I’m currently working API Testing.
-- 💞️ I’m looking to collaborate on a Jobs portal website.
-- 📫 To reach me throught: musfiqurrahman1205@gmail.com 
-- 🥅 2023 Goals: Learn more about QA.
+- 🧪 Manual Testing Expert (Functional, UI/UX, Regression).
+- 🛠 Experienced with <strong>Jira, Postman, TestRail. </strong>
+- 🗃️ Documenting Test Plans, RTMs, Summary Reports.    
+- 🔍 Exploring opportunities in manual mobile app testing (Android & iOS).
+- 🌱 I’m currently working on API Testing.
+- 📫 To reach me throught: musfiqur207@gmail.com 
+- 🥅 2026 Goals: Learn more about Automation testing.
 - ⚡ Fun fact: I love to reading books and play cricket.
 <br>
 <br>
