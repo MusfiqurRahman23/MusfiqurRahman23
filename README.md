@@ -17,11 +17,13 @@
 ⚡ Fun fact: I love to reading books and play cricket.
 <br>
 <br>
+<hr>
 ### Paper Published
-🔹 Smart Greenhouse Monitoring System (IoT); ISBN:	979-8-4007-1382-8
+🔹 Smart Greenhouse Monitoring System (IoT); ISBN:	979-8-4007-1382-8 <br>
 🔹 Text-to-Sign Language Translation; DOI:10.9734/JERR/2023/v25i2883
 <br>
 
+<hr>
 ### Skills
 
 <hr>
