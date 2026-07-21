@@ -7,14 +7,14 @@
 
 <hr>
 
-🧪 Manual Testing Expert (Functional, UI/UX, Regression).
-🛠 Experienced with <strong>Jira, Postman, TestRail. </strong>
-🗃️ Documenting Test Plans, RTMs, Summary Reports.    
-🔍 Exploring opportunities in manual mobile app testing (Android & iOS).
-🌱 I’m currently working on API Testing.
-📫 To reach me throught: musfiqur207@gmail.com 
-🥅 2026 Goals: Learn more about Automation testing.
-⚡ Fun fact: I love to reading books and play cricket.
+- 🧪 Manual Testing Expert (Functional, UI/UX, Regression).
+- 🛠 Experienced with <strong>Jira, Postman, TestRail. </strong>
+- 🗃️ Documenting Test Plans, RTMs, Summary Reports.    
+- 🔍 Exploring opportunities in manual mobile app testing (Android & iOS).
+- 🌱 I’m currently working on API Testing.
+- 📫 To reach me throught: musfiqur207@gmail.com 
+- 🥅 2026 Goals: Learn more about Automation testing.
+- ⚡ Fun fact: I love to reading books and play cricket.
 <br>
 <br>
 ### Skills
@@ -73,11 +73,13 @@
 <hr>
 <br>
 <hr>
-### Paper Published
+<br>
+### Paper Published <br>
 🔹 Smart Greenhouse Monitoring System (IoT); ISBN:	979-8-4007-1382-8 <br>
 🔹 Text-to-Sign Language Translation; DOI:10.9734/JERR/2023/v25i2883
 <br>
 <br>
+<hr>
 <p align="center">
    <table>
       <tr>
